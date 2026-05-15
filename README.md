@@ -1,2 +1,2 @@
 # emmonti.github.io
-///basic setup
+emma website
