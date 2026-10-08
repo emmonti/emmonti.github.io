@@ -12,11 +12,7 @@
 
 body {
   margin: 0;
-  font-family:
-    Inter,
-    -apple-system,
-    BlinkMacSystemFont,
-    sans-serif;
+  font-family: Georgia, serif;
 
   background: var(--bg);
   color: var(--text);
@@ -31,6 +27,7 @@ body {
 
 header {
   margin-bottom: 64px;
+  text-align: center;
 }
 
 h1 {
